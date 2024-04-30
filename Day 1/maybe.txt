@@ -1,0 +1,6 @@
+[Key.cmd_r, 
+'f', 'i', 'l', 'e', 
+Key.enter, 
+Key.tab, Key.tab, Key.tab, Key.tab, Key.tab, Key.tab,
+'D', 'o', 'c', 'u', 'm', 'e', 'n', 't', 's',
+Key.enter]
