@@ -10,7 +10,7 @@ function clearDisplay() {
 
 function calculate() {
     try {
-    display.value = eval(display.value);
+    display.value = eval(display.value); // I don't like the use of eval
     }
     catch {
         display.value = "ERROR"
